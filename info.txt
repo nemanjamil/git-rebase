@@ -1,0 +1,6 @@
+npm i express nodemon
+
+npm run nodemon
+
+// Create branch
+git checkout -b branckone
